@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T14:01:17.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="20.8.23" etag="NYu9VpvclfvWKCR0mYWg" type="github"><diagram name="Page-1" id="MM5e-Fbxk0udzijghJ8K">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T23:32:40.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="5rZfM0uP8A5bDqy4HYHi" version="20.8.23" type="github">
+  <diagram name="Page-1" id="MM5e-Fbxk0udzijghJ8K">
+    <mxGraphModel dx="478" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-1" value="Registro&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-2" value="Autenticación&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-6" value="Uno a &amp;nbsp;Uno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-7" value="Compi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-9" value="Cedula" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDSlgM43zbKlV3Qii6QO-2" target="JDSlgM43zbKlV3Qii6QO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JDSlgM43zbKlV3Qii6QO-1" target="JDSlgM43zbKlV3Qii6QO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-10" value="COMPI" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="340" y="265" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-15" value="Carga inicial Tenderos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JDSlgM43zbKlV3Qii6QO-11" target="JDSlgM43zbKlV3Qii6QO-12">
+          <mxGeometry x="0.2296" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="80" />
+              <mxPoint x="500" y="80" />
+              <mxPoint x="500" y="215" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-20" value="API&lt;br&gt;Carga de Ventas" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JDSlgM43zbKlV3Qii6QO-11" target="JDSlgM43zbKlV3Qii6QO-12">
+          <mxGeometry x="-0.0002" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="70" />
+              <mxPoint x="560" y="226" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-11" value="Amovil&lt;br&gt;&lt;b&gt;MDM&lt;/b&gt; Tendero" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="395" y="30" width="45" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=8;exitX=1;exitY=0;exitDx=0;exitDy=25;exitPerimeter=0;" edge="1" parent="1" source="JDSlgM43zbKlV3Qii6QO-12" target="JDSlgM43zbKlV3Qii6QO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-19" value="API nuevos Tenderos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="JDSlgM43zbKlV3Qii6QO-18">
+          <mxGeometry x="-0.0255" relative="1" as="geometry">
+            <mxPoint x="-10" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-12" value="Compi" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="346" y="160" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-13" value="&lt;h1&gt;Parking Lot&lt;/h1&gt;&lt;p&gt;1.Los Tenderos que ya hacen parte de campeones siguen en Compi? MAYE&lt;/p&gt;&lt;p&gt;2.La actualización de datos de tendero se llevaran al MDM de Tenderos en Alpina? &amp;nbsp;MAYE&lt;/p&gt;&lt;p&gt;3.Validar Habeas Data, si es que lo vamos a tener uno exclusivo para Compi. JUANFER&lt;/p&gt;&lt;p&gt;4. Export .bak de la base de datos mensual de información relevante de alpina (SFTP o S3) Forecast de Peso y espeficicaciñones FELIPE&amp;nbsp;&lt;/p&gt;&lt;p&gt;5. &amp;nbsp;Amovil nos envia estructura de los tenderos (Persona, Punto de venta, Segmentación) EMANUEL&lt;/p&gt;&lt;p&gt;6. Las cargas de ventas serán a nivel de SKU-cliente o acumulado? MAYE&amp;nbsp;&lt;/p&gt;&lt;p&gt;7. Carga de Ventas una vez al día (Día anterior)&amp;nbsp;&lt;/p&gt;&lt;p&gt;8. Nos enviar la estructura de la venta EMANUEL&amp;nbsp;&lt;/p&gt;&lt;p&gt;9. Nivel de encriptamiento en la Cédula para la URL de llamado a Compi&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JDSlgM43zbKlV3Qii6QO-17" value="Redención" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="65" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
