@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T14:21:47.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="21.0.4" etag="rd36E7Hy6iB1iPfdEhRW" type="github"><diagram name="Page-1" id="ZMe2aoO1moI3oIJc-vA4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-10T16:29:10.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="6dSciAel4CocAuuLS0JP" version="21.0.4" type="github">
+  <diagram name="Page-1" id="ZMe2aoO1moI3oIJc-vA4">
+    <mxGraphModel dx="1405" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-1" value="Omnicon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="40" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-2" value="DDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="100" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-3" value="BigHolding - Catalina Restrepo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="160" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-4" value="Multisponsor&lt;br&gt;&lt;br&gt;Mónica Martínez&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="220" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-5" value="Track&lt;br&gt;Mercadeo Relacional&lt;br&gt;&lt;br&gt;Natalia Ochoa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-6" value="Alpina&lt;br&gt;viva&lt;br&gt;Auteco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="320" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-7" value="Mastercard&lt;br&gt;BAT&lt;br&gt;Terpel&lt;br&gt;Nutrias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-8" value="Red Lealtad" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-9" value="Orientacion a Producto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-10" value="CRM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-11" value="Netcommerce" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="375" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-12" value="Eduselling / Edu Learning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="375" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-13" value="Inventarios" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-14" value="Multialianzas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="375" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-15" value="&lt;b&gt;Analitica&lt;/b&gt; &amp;nbsp;&amp;nbsp;&lt;br&gt;Monica Prieto" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-16" value="&lt;b&gt;Digital&lt;/b&gt; &amp;nbsp;&amp;nbsp;&lt;br&gt;Evelio Ramirez&lt;br&gt;UX / UI / html / Performace" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-17" value="&lt;b&gt;Alianzas&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;Pablo Tirado" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UawdOm7LCvoxLCRRJHb7-18" value="&lt;b&gt;Operation y Diseño&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;Jhony Vasco" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
