@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T20:32:53.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="21.1.4" etag="CKXz3uZujiu7TyJoAiaT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T21:23:56.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="qU32I_LUxJprjIJ2nm-8" version="21.1.4" type="github">
   <diagram name="Page-1" id="ZuAR2oJNdFXF3eU2rOiu">
-    <mxGraphModel>
+    <mxGraphModel dx="1972" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-1" value="Primax" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-2" value="Corona" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-4" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-6" target="71ZRLDLO_g7hEr6_q7Dg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-6" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-11" target="71ZRLDLO_g7hEr6_q7Dg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-11" value="Corona CRM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-12" target="71ZRLDLO_g7hEr6_q7Dg-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="340" />
+              <mxPoint x="150" y="340" />
+              <mxPoint x="150" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-12" value="Primax CRM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-19" target="71ZRLDLO_g7hEr6_q7Dg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="130" />
+              <mxPoint x="320" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-19" value="Soporte" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-25" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="385" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-27" value="Quitar algunos campos para que no sean obligatorios" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-34" target="71ZRLDLO_g7hEr6_q7Dg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-34" value="API de registro y actualización&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-38" target="71ZRLDLO_g7hEr6_q7Dg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-38" value="Canal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-42" value="&lt;h1&gt;Notas:&lt;/h1&gt;&lt;p&gt;1. Cualquier canal va a poder crear y actualizar datos? cuales serian los canales.&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. Se actualizan los campos que lleguen. si se quieren enviar solo algunos campos.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. Si el cliente no existe se crea inmediatamente. &amp;nbsp;&lt;/p&gt;&lt;p&gt;4. Se tendría un usuario y Pws &amp;nbsp;por cada canal de registro como método de autenticación. &amp;nbsp;&lt;/p&gt;&lt;p&gt;5. Cada usuario esta asociado a una campaña? o cómo lo manejamos?&lt;/p&gt;&lt;p&gt;6. Se entregara diccionario de datos para las maestras.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="320" width="250" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-45" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="435" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-46" value="API de registro y actualización&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71ZRLDLO_g7hEr6_q7Dg-47" target="71ZRLDLO_g7hEr6_q7Dg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71ZRLDLO_g7hEr6_q7Dg-47" value="API de registro y actualización&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
