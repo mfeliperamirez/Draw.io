@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:04:09.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="CaJ07bC5TdeK8E7H1e99" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:28:13.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="tdN3Er151Pdm2RqWrYU1" version="21.6.8" type="github">
   <diagram name="Page-1" id="Q9ZGOHgGkMbfIUr9nXr1">
-    <mxGraphModel dx="952" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="130" width="120" height="360" as="geometry" />
+          <mxGeometry x="20" y="130" width="120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/2560px-Shopify_logo_2018.svg.png;" vertex="1" parent="1">
           <mxGeometry x="35" y="139.25" width="90" height="25.5" as="geometry" />
@@ -107,28 +107,28 @@
           <mxGeometry x="33" y="364" width="95" height="18" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-42" value="Contenido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="33" y="384" width="35" height="9" as="geometry" />
+          <mxGeometry x="33" y="384" width="47" height="9" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-43" value="Precio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="71" y="384" width="25" height="9" as="geometry" />
+          <mxGeometry x="90" y="384" width="38" height="9" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-44" value="Inventario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="100" y="384" width="28" height="9" as="geometry" />
+          <mxGeometry x="32.25" y="409" width="96.5" height="9" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-45" value="Fotos y Videos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="32" y="395" width="97" height="9" as="geometry" />
+          <mxGeometry x="32" y="396" width="97" height="9" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-46" value="Sincronizar ordenes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="410" width="95" height="18" as="geometry" />
+          <mxGeometry x="35" y="440" width="95" height="18" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-47" value="Pre-orden (COD)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="35" y="430" width="45" height="20" as="geometry" />
+          <mxGeometry x="35" y="460" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-48" value="Orden" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="40" height="9" as="geometry" />
+          <mxGeometry x="90" y="460" width="40" height="9" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-49" value="Sincronizar Inventario" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="460" width="95" height="18" as="geometry" />
+          <mxGeometry x="35" y="490" width="95" height="18" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMyQcAAI0aIPcuT6iPED-66" target="BMyQcAAI0aIPcuT6iPED-59">
           <mxGeometry relative="1" as="geometry">
@@ -291,6 +291,12 @@
           <mxGeometry x="-0.0571" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BMyQcAAI0aIPcuT6iPED-139" value="Mutiples Origenes de inventarios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="32.25" y="421" width="96.5" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="BMyQcAAI0aIPcuT6iPED-140" value="&lt;h1&gt;Por Validar:&lt;/h1&gt;&lt;p&gt;1. Cual es el formulario que esta usando Sebastian para que los clientes de spotfy no pegan premiun.&lt;/p&gt;&lt;p&gt;2. [Plugin] Pantalla de confirmación de despachos de contra entrega. esas confirmaciones deberían enviar una notificación por keybe para que se confirme direccional por whatsapp&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="390" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
