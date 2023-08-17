@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T17:06:29.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="5t57fQY4o5bHFE--AnlH" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:04:09.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="CaJ07bC5TdeK8E7H1e99" version="21.6.8" type="github">
   <diagram name="Page-1" id="Q9ZGOHgGkMbfIUr9nXr1">
-    <mxGraphModel dx="1120" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-128" value="Producto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="535" y="550" width="110" height="22.5" as="geometry" />
+          <mxGeometry x="535" y="538" width="110" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="BMyQcAAI0aIPcuT6iPED-129" value="Inventario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="610" y="690" width="98" height="28.5" as="geometry" />
